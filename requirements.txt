@@ -1,0 +1,3 @@
+flask
+scikit-learn    # or tensorflow, depending on your model
+joblib           # for loading .pkl
